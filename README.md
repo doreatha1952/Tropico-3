@@ -208,3 +208,6 @@ Tropico 3 is available as a complete free version with all features and updates 
 - 📧 **[Support](mailto:support@www.softyne.com)**
 - 📖 **[Documentation](https://www.softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://www.softyne.com/about-us/)**
+
+---
+**Last updated:** 2026-09-15 07:16:45 UTC
